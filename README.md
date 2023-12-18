@@ -1,4 +1,4 @@
-# JavaScript Small Projects - Learning with Jonas Schmetman
+# JavaScript Small Projects - Learning with Jonas Schmedtman
 Welcome to this repository where I've documented and implemented small JavaScript projects as part of my learning journey with Jonas Schmetman's tutorials. Each project within this collection serves as a hands-on exercise, allowing me to apply and reinforce the concepts covered in the course.
 
 How to Use:
